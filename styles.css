@@ -1,0 +1,14 @@
+.container-fluid {
+  margin-top: 100px;
+}
+
+.test-image {
+  width: 20%;
+  margin: 20px;
+  filter: drop-shadow(2px 2px 2px #8f8f8f);
+  border-radius: 5px;
+}
+
+#loading {
+  /* display: none; */
+}
